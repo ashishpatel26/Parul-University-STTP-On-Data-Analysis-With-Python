@@ -1,2 +1,2 @@
-# Ganpat-STTP-on-Data-Analytics-with-Python
-Ganpat STTP on Data Analytics with Python
+# Parul-University-STTP-On-Data-Analysis-With-Python
+Parul-University-STTP-On-Data-Analysis-With-Python
